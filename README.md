@@ -1,4 +1,3 @@
-<body>
 <h1>Some h1 heading is here</h1>
 <h2>This is an ordered list</h2>
    <ol>
@@ -12,4 +11,16 @@
       <li>Bulleted list 2</li>
    </ul>
 <p>Some <em>Italic, </em><b>Bold</b> and <em><b>Italic + Bold</b></em> text</p>
-</body>
+
+*some italic text*
+
+**bold text**
+
+***some italic + bold text***
+
+`What's yourshgfsghsf name?`
+
+```javascript
+alert('Hi there');
+document.write('How is it going?');
+```
