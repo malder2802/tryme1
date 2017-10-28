@@ -23,4 +23,5 @@
 ```javascript
 alert('Hi there');
 document.write('How is it going?');
+document.write('How is it going?');
 ```
